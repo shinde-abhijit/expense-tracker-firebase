@@ -1,0 +1,58 @@
+/* h1{
+    font-size: 38px !important;
+    font-weight: 500;
+}
+h2{
+    font-size: 34px !important;
+    font-weight: 500;
+
+}
+h3{
+    font-size: 30px !important;
+    font-weight: 500;
+
+}
+h4{
+    font-size: 26px !important;
+    font-weight: 500;
+
+}
+h5{
+    font-size: 22px !important;
+    font-weight: 500;
+
+}
+h6{
+    font-size: 18px !important;
+    font-weight: 500;
+} */
+
+.header-section{
+    width: 95% !important;
+}
+
+.transaction-type{
+    cursor: pointer;
+    user-select: none;
+}
+
+.profile-image img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.profile-image img:hover{
+    border-radius: 60%;
+    background-color: #fff !important;
+}
+
+label{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+ul{
+    list-style: none;
+}
+
+
